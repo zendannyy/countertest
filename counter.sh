@@ -69,4 +69,4 @@ while [ $counter -le  $myNum ];
 	sleep 0.1
 done
 
-echo "we out here"
+echo "that's all folks"
